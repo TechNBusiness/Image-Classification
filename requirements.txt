@@ -1,0 +1,7 @@
+TensorFlow and Keras.
+• Numpy.
+• Time: Used to work with time-related functions. It also measures time intervals etc.
+• PIL.Image: The PIL is used for image processing tasks, such as loading, manipulating, and saving images.
+• Matplotlib.pylab: For visualizing graphs, charts, images etc.
+• Tensorflow_hub.
+• Datetime: Basically, used for manipulating dates and times in Python language.
