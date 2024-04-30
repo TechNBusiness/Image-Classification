@@ -1,6 +1,6 @@
-**Multi-Class Image-Classification using pre-trained Neural Networks**
+# Multi-Class Image-Classification using pre-trained Neural Networks
 
-Introduction
+## Introduction
 
 Food is an indispensable part of our daily lives, and the ability to categorize several food items in images has become a vital area of interest in machine vision and artificial intelligence. This research work is a well-thought-out initiative utilizing powerful deep learning model to predict 5 classes of images that belong to different kinds of food items.
 
