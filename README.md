@@ -1,4 +1,4 @@
-##Multi-Class Image-Classification using pre-trained Neural Networks
+#Multi-Class Image-Classification using pre-trained Neural Networks
 
 Introduction
 
