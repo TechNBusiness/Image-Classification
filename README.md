@@ -11,7 +11,7 @@ This task uses two state-of-the-art models pre-trained on ImageNet namely Mobile
 ![Image classification design diagram](https://github.com/TechNBusiness/Image-Classification/assets/97891437/c56a8bf0-604f-451b-9396-a0a6a69f9fb8)
 
 ## Dataset
-The datase for the research work was manually collected and annotated. They consists of a diverse array of food item images carefully and manually collected and labeled depicting in each of the images,  About 15% percent of the image data was collected using the web scraping method to complement the amount of data available for training. There are five catergories in the dataset which are labeled according to the assorted items including fruits, vegetables, grain, meat, and baked products. 
+The dataset for this research work was manually collected and annotated. They consists of a diverse array of food item images manually collected and labeled depicting in each of the images, varities of food item images.  About 15% percent of the image data was collected using the web scraping method to complement the amount of data available for training. There are five catergories in the dataset which are labeled according to the assorted items including fruits, vegetables, grain, meat, and baked products. 
 
 ## Usage
 1. Clone or download the project repository to your local machine.
